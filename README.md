@@ -3,4 +3,4 @@
 Hello!
 
 # my-picture
-![a picture of me](img/IMG_1214)
+! [a picture of me](img/IMG_1214)
